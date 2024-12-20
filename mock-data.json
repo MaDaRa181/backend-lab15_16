@@ -1,0 +1,402 @@
+[
+  {
+    "company": "Schaden, Koch and Schmitt",
+    "position": "Senior Financial Analyst",
+    "status": "pending",
+    "jobType": "full-time",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "12/5/2023"
+  },
+  {
+    "company": "Breitenberg-Heidenreich",
+    "position": "Budget/Accounting Analyst I",
+    "status": "pending",
+    "jobType": "internship",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "10/8/2024"
+  },
+  {
+    "company": "Johnson Inc",
+    "position": "Quality Engineer",
+    "status": "pending",
+    "jobType": "internship",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "1/13/2024"
+  },
+  {
+    "company": "Kiehn, Pagac and Morar",
+    "position": "Human Resources Assistant III",
+    "status": "pending",
+    "jobType": "internship",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "6/15/2024"
+  },
+  {
+    "company": "Keeling-Rohan",
+    "position": "Accountant I",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "8/4/2024"
+  },
+  {
+    "company": "Moen LLC",
+    "position": "Senior Cost Accountant",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "4/22/2024"
+  },
+  {
+    "company": "Gusikowski-Muller",
+    "position": "Safety Technician IV",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "9/23/2024"
+  },
+  {
+    "company": "Hansen LLC",
+    "position": "Structural Analysis Engineer",
+    "status": "declined",
+    "jobType": "full-time",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "5/24/2024"
+  },
+  {
+    "company": "Hahn Group",
+    "position": "Senior Cost Accountant",
+    "status": "pending",
+    "jobType": "internship",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "12/29/2023"
+  },
+  {
+    "company": "Roob, Reichert and Graham",
+    "position": "Recruiting Manager",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "2/12/2024"
+  },
+  {
+    "company": "Kohler, Padberg and Rohan",
+    "position": "Assistant Media Planner",
+    "status": "pending",
+    "jobType": "part-time",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "1/8/2024"
+  },
+  {
+    "company": "Dibbert Group",
+    "position": "Environmental Specialist",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "10/31/2024"
+  },
+  {
+    "company": "Lemke-Kuvalis",
+    "position": "Recruiting Manager",
+    "status": "pending",
+    "jobType": "full-time",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "4/9/2024"
+  },
+  {
+    "company": "Adams, Kerluke and Reilly",
+    "position": "Senior Quality Engineer",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "8/10/2024"
+  },
+  {
+    "company": "Ward-O'Conner",
+    "position": "Structural Analysis Engineer",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "4/30/2024"
+  },
+  {
+    "company": "Schinner-Pfeffer",
+    "position": "Sales Associate",
+    "status": "interview",
+    "jobType": "remote",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "1/4/2024"
+  },
+  {
+    "company": "Cronin, Hoppe and Turner",
+    "position": "Junior Executive",
+    "status": "declined",
+    "jobType": "full-time",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "11/11/2024"
+  },
+  {
+    "company": "Hamill, Leannon and Crooks",
+    "position": "Account Coordinator",
+    "status": "pending",
+    "jobType": "full-time",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "1/26/2024"
+  },
+  {
+    "company": "Bernier-Rutherford",
+    "position": "Geological Engineer",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "7/25/2024"
+  },
+  {
+    "company": "Homenick-O'Reilly",
+    "position": "Physical Therapy Assistant",
+    "status": "declined",
+    "jobType": "remote",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "4/22/2024"
+  },
+  {
+    "company": "Hauck, Bernhard and Feil",
+    "position": "Graphic Designer",
+    "status": "interview",
+    "jobType": "full-time",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "2/24/2024"
+  },
+  {
+    "company": "Borer-Flatley",
+    "position": "Marketing Assistant",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "10/14/2024"
+  },
+  {
+    "company": "Schultz-Keebler",
+    "position": "Research Nurse",
+    "status": "interview",
+    "jobType": "remote",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "12/4/2023"
+  },
+  {
+    "company": "Gutmann-Maggio",
+    "position": "VP Product Management",
+    "status": "pending",
+    "jobType": "full-time",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "9/6/2024"
+  },
+  {
+    "company": "Davis, McGlynn and Klocko",
+    "position": "Senior Quality Engineer",
+    "status": "pending",
+    "jobType": "internship",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "5/30/2024"
+  },
+  {
+    "company": "Cummings-Beier",
+    "position": "Technical Writer",
+    "status": "pending",
+    "jobType": "part-time",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "12/14/2023"
+  },
+  {
+    "company": "Zboncak, Beahan and Mosciski",
+    "position": "Senior Editor",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "9/12/2024"
+  },
+  {
+    "company": "Deckow-Nitzsche",
+    "position": "Systems Administrator I",
+    "status": "pending",
+    "jobType": "internship",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "4/17/2024"
+  },
+  {
+    "company": "VonRueden and Sons",
+    "position": "Computer Systems Analyst II",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "12/21/2023"
+  },
+  {
+    "company": "Williamson, Padberg and Torp",
+    "position": "Human Resources Manager",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "11/20/2024"
+  },
+  {
+    "company": "Leannon Inc",
+    "position": "Automation Specialist II",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "5/23/2024"
+  },
+  {
+    "company": "Ondricka, Raynor and Ortiz",
+    "position": "Programmer Analyst I",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "8/13/2024"
+  },
+  {
+    "company": "Moen, Johnson and Daugherty",
+    "position": "Software Consultant",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "6/15/2024"
+  },
+  {
+    "company": "Murazik, Strosin and Hyatt",
+    "position": "Help Desk Operator",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "5/10/2024"
+  },
+  {
+    "company": "Herman-Reichert",
+    "position": "Account Coordinator",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "10/1/2024"
+  },
+  {
+    "company": "Hodkiewicz-Dietrich",
+    "position": "Nurse",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "3/6/2024"
+  },
+  {
+    "company": "Little Inc",
+    "position": "Research Associate",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "5/28/2024"
+  },
+  {
+    "company": "Batz, Hilpert and Stroman",
+    "position": "Health Coach I",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "7/7/2024"
+  },
+  {
+    "company": "Hegmann, Bode and Ryan",
+    "position": "Pharmacist",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "6/13/2024"
+  },
+  {
+    "company": "Effertz and Sons",
+    "position": "Human Resources Assistant II",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "10/24/2024"
+  },
+  {
+    "company": "Dickens, Kirlin and Effertz",
+    "position": "VP Quality Control",
+    "status": "interview",
+    "jobType": "full-time",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "9/14/2024"
+  },
+  {
+    "company": "Hammes, Romaguera and Parker",
+    "position": "Accountant III",
+    "status": "interview",
+    "jobType": "remote",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "8/21/2024"
+  },
+  {
+    "company": "Daugherty, Grady and Lubowitz",
+    "position": "Analyst Programmer",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "2/17/2024"
+  },
+  {
+    "company": "Toy, Moore and Cormier",
+    "position": "VP Marketing",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "9/18/2024"
+  },
+  {
+    "company": "Hamill-Towne",
+    "position": "Editor",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "1/29/2024"
+  },
+  {
+    "company": "Hills, Bauch and Treutel",
+    "position": "Assistant Professor",
+    "status": "declined",
+    "jobType": "full-time",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "5/28/2024"
+  },
+  {
+    "company": "Farrell Group",
+    "position": "Help Desk Operator",
+    "status": "pending",
+    "jobType": "internship",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "8/6/2024"
+  },
+  {
+    "company": "Pagac, Strosin and Kassulke",
+    "position": "Actuary",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "12/13/2023"
+  },
+  {
+    "company": "Daugherty-Heathcote",
+    "position": "Computer Systems Analyst III",
+    "status": "pending",
+    "jobType": "full-time",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "12/26/2023"
+  },
+  {
+    "company": "Swift-Simonis",
+    "position": "Account Representative II",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "67649d8fb7a7380924f9b6f5",
+    "createdAt": "11/12/2024"
+  }
+]
